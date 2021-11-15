@@ -1,2 +1,2 @@
 # oriflame_api
-An oriflame product api wrapper written in pyyhon.
+An oriflame product api wrapper written in python.
